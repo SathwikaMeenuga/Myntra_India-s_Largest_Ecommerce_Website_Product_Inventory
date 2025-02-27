@@ -42,3 +42,6 @@ o	For example, Myntra could consider offering discounts or promotions on lower-p
 
 By leveraging these recommendations, Myntra can optimize its product offerings, refine pricing strategies, and enhance inventory management to ultimately improve customer satisfaction and drive business growth.
 
+![image](https://github.com/user-attachments/assets/efd8670c-4e0b-4253-bca4-8f83caf1a116)
+
+
